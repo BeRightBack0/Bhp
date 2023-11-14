@@ -20,3 +20,11 @@ Wibracje
 Miktoklimat
 Promieniowanie
 Pyły przemysłowe
+
+5. Chemiczne:
+Substancje i mieszaniny chemiczne:
+Łatwopalne
+Wybuchowe
+Toksyczne
+Kancerogenne
+Uczulające
